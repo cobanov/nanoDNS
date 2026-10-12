@@ -13,6 +13,8 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: read
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout SDK
