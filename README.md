@@ -89,7 +89,6 @@ feature.api.playstation.com
 stun.*.playstation.net
 ena.net.playstation.net
 post.net.playstation.net
-gst.prod.dl.playstation.net
 # auth.api.playstation.net
 # *.allowed.playstation.net
 ```
